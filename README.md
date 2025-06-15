@@ -13,9 +13,9 @@
 
 - 🔭 I’m Undergraduate at **Java Institute for advanced technology**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **Java, OOPC, Hibernate ORM, React, ReactNative**
+- 💬 Ask me about **Java, OOPC, Next Js, React Js, ReactNative, Spring Boot, Android(Java)**
 
 - 📫 How to reach me **danirudahamneth72@gmail.com**
 
